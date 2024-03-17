@@ -1,0 +1,8 @@
+prefix=/home/psychedelic/mantis/devel
+
+Name: slambot_ros
+Description: Description of slambot_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

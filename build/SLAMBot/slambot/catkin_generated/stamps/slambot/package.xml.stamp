@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>slambot</name>
+  <version>0.0.0</version>
+  <description>metapackage for the SLAMbot project</description>
+
+  <maintainer email="shobuj.paul@gmail.com">Shobuj Paul</maintainer>
+  <author>Shivani Chanda</author>
+  <author>Spandan Patkar</author>
+  <author>Sunaina Sunil</author>
+
+  <license>BSD-3-Clause</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>slambot_description</exec_depend>
+  <exec_depend>slambot_ros</exec_depend>
+  <exec_depend>slambot_simulation</exec_depend>
+
+  <export><metapackage/></export>
+</package>

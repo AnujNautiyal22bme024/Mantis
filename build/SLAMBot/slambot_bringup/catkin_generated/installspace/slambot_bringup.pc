@@ -1,0 +1,8 @@
+prefix=/home/psychedelic/mantis/install
+
+Name: slambot_bringup
+Description: Description of slambot_bringup
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs

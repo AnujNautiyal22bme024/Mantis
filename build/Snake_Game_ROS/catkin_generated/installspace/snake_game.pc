@@ -1,0 +1,8 @@
+prefix=/home/psychedelic/mantis/install
+
+Name: snake_game
+Description: Description of snake_game
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
